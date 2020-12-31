@@ -10,3 +10,6 @@ package-lock.json
 
 # Mac
 .DS_Store
+
+# Python
+__pycache__
